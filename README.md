@@ -12,6 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Привет, меня зовут Михаил</h1>
-<h3 align="center">Начинающий Frontend-разработчик</h3>
