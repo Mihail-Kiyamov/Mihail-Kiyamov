@@ -30,16 +30,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">Статистика</h2>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mihail-Kiyamov&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mihail-Kiyamov&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mihail-Kiyamov&show_icons=true" />
-</picture>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihail-kiyamov&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihail-kiyamov&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihail-kiyamov&theme=github_dark" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihail-Kiyamov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
