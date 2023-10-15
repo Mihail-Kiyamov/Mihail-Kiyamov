@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Привет, меня зовут Михаил
+<h1 align="center">Привет, меня зовут Михаил</h1>
